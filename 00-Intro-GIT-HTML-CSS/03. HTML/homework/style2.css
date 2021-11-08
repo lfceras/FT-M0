@@ -1,0 +1,42 @@
+h1
+{
+    text-align: center;
+    position: relative;
+    top: 0px;
+    
+}
+  img
+{
+      
+    position: absolute;
+    bottom: 370PX;
+    left: 600px;
+    height: 150px;
+    width: 150px;
+}
+  
+
+
+h2 
+{
+    position: relative;
+    top: 250px;
+    text-align: center;
+}
+ ul 
+{
+    position: relative;
+    left: 350px;
+    top: 250px;
+}
+
+
+p
+{
+    position: relative;
+    top: 250px;
+   text-align: center
+}
+body{
+    background-color: wheat;
+}
